@@ -16,7 +16,7 @@ Drupal mode, Symfony2, etc etc
 
 ** Debugging
 
-GEBEN, what else?
+GEBEN, what else? Non-IDE based debugging tools
 
 ** Semantic integration
 
