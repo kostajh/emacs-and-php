@@ -1,0 +1,29 @@
+* emacs-and-php
+
+A collection of tips & tricks for writing PHP in Emacs
+
+** Packages
+
+PHP mode. Add notes.
+
+*** General
+
+Various packages that make PHP editing easier.
+
+*** Framework specific
+
+Drupal mode, Symfony2, etc etc
+
+** Debugging
+
+GEBEN, what else?
+
+** Semantic integration
+
+EDEP, what else?
+
+** Source code tagging
+
+phptags, ctags, gtags, etc etc
+
+
