@@ -26,4 +26,8 @@ EDEP, what else?
 
 phptags, ctags, gtags, etc etc
 
+Main branch of ctags (PHP patches included): https://github.com/universal-ctags
 
+** Misc
+
+Discussion board about PHP support in Emacs: https://groups.google.com/forum/#!forum/emacs-php
